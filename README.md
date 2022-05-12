@@ -28,6 +28,7 @@ Code: ANPR.py   </br>
      https://github.com/nicknochnack/ANPRwithPython/blob/main/ANPR%20-%20Tutorial.ipynb   </br>
      https://github.com/MauryaRitesh/OCR-Python/blob/master/OCR_Tesseract_Python.ipynb    </br>
 
-Presentation Slides: CS5190_ANPR.pptx         </br>
-
 Presenation Poster: CS5190_ANPR_Proster.pdf   </br>
+
+Presentation Slides: CS5190_ANPR.pptx         </br>
+Coming soon... need to reduce the file size or break up the presentation into 2 parts.</br>
